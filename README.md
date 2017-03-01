@@ -1,2 +1,2 @@
 # kdmc_headend
-KDMC Broadcast Channel Information
+KDMC Broadcasting Channel Information
